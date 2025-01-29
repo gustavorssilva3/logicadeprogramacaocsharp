@@ -59,6 +59,44 @@ namespace logica04
             {
                 Console.WriteLine("Você foi reprovado.");
             }
+
+
+            // Switch
+            double pontuacao = 8.5;
+
+            // Arredondar a nota para o inteiro mais proximo 
+            int faixaNota = (int)Math.Round(pontuacao);
+
+            switch (faixaNota)
+                {
+                case 10:
+                    Console.WriteLine("Você obteve uma exelente nota! Aprovado(a) com distinção");
+                    break;
+
+                case 9:
+                case 8:
+                    Console.WriteLine("Você esta aprovado(a)";
+                    break;
+
+                case 7:
+                case 6:
+                    Console.WriteLine("Você esta de recuperação");
+                    break;
+
+                case 5:
+                case 4:
+                case 3:
+                    Console.WriteLine("Você esta em risco de reprovação");
+                    break;
+
+                default:
+                    Console.WriteLine("Você esta reprovado");
+                    break;
+
+
+            }
+
+            Console.ReadLine();
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\logicadeprogramacao\logica05\logica05\bin\Debug\logica05.exe.config
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\logicadeprogramacao\logica05\logica05\bin\Debug\logica05.exe
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\logicadeprogramacao\logica05\logica05\bin\Debug\logica05.pdb
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\logicadeprogramacao\logica05\logica05\obj\Debug\logica05.csproj.AssemblyReference.cache
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\logicadeprogramacao\logica05\logica05\obj\Debug\logica05.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\logicadeprogramacao\logica05\logica05\obj\Debug\logica05.exe
+C:\Users\gustavo.rssilva3\Documents\Visual Studio 2022\logicadeprogramacao\logica05\logica05\obj\Debug\logica05.pdb

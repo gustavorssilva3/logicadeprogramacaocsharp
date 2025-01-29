@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gustavo.rssilva3\\Documents\\Visual Studio 2022\\logicadeprogramacao\\logica08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC8AC9C4-DCF3-4777-A64B-13050BEF5423}|logica08\\logica08.csproj|c:\\users\\gustavo.rssilva3\\documents\\visual studio 2022\\logicadeprogramacao\\logica08\\logica08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC8AC9C4-DCF3-4777-A64B-13050BEF5423}|logica08\\logica08.csproj|solutionrelative:logica08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.rssilva3\\Documents\\Visual Studio 2022\\logicadeprogramacao\\logica08\\logica08\\Program.cs",
+              "RelativeDocumentMoniker": "logica08\\Program.cs",
+              "ToolTip": "C:\\Users\\gustavo.rssilva3\\Documents\\Visual Studio 2022\\logicadeprogramacao\\logica08\\logica08\\Program.cs",
+              "RelativeToolTip": "logica08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:55:52.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
